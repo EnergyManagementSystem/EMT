@@ -1,10 +1,10 @@
 package cn.enn.EMT;
 
 import org.junit.Test;
-import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.beans.factory.annotation.Autowired;
 
 //import cn.enn.EMT.dataCollection.DaoImplement.UserBehaviorImpl;
-import cn.enn.EMT.dataCollection.po.UserBehavior;
+//import cn.enn.EMT.dataCollection.po.UserBehavior;
 
 public class TestDatabase {
 

@@ -1,14 +1,14 @@
 package cn.enn.EMT.dataCollection.DaoImplement;
 
-import java.sql.ResultSet;
+//import java.sql.ResultSet;
 
-import java.sql.SQLException;
+//import java.sql.SQLException;
 
-import org.springframework.jdbc.core.RowCallbackHandler;
-import org.springframework.stereotype.Repository;
+//import org.springframework.jdbc.core.RowCallbackHandler;
+//import org.springframework.stereotype.Repository;
 
-import cn.enn.EMT.dataCollection.UserBehaviorDao;
-import cn.enn.EMT.dataCollection.po.UserBehavior;
+//import cn.enn.EMT.dataCollection.UserBehaviorDao;
+//import cn.enn.EMT.dataCollection.po.UserBehavior;
 
 /*
 @Repository

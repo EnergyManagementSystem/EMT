@@ -2,13 +2,13 @@ package cn.enn.EMT.controller;
 
 import java.util.ArrayList;
 
-import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 //import cn.enn.EMT.dataCollection.DaoImplement.UserBehaviorImpl;
-import cn.enn.EMT.dataCollection.po.UserBehavior;
+//import cn.enn.EMT.dataCollection.po.UserBehavior;
 import cn.enn.EMT.vo.EnvironmentInformationVO;
 import cn.enn.EMT.webResponse.JsonResponse;
 
