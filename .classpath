@@ -33,25 +33,13 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/commons-lang-2.4.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/json-lib-2.4-jdk15.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/mysql-connector-java-5.1.37.zip">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/commons-beanutils.jar"/>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/ezmorph-1.0.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/spring.jar"/>
-	<classpathentry kind="lib" path="C:/Users/wangxiaonab/Desktop/ADD.jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/mysql-connector-java-5.1.37.zip"/>
+	<classpathentry kind="lib" path="E:/EMS/EMT/JSONjar/spring.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
