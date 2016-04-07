@@ -8,6 +8,7 @@ public class WeatherInfVO {
 	private OneDayWeatherInfVO[] weatherInfs;//存放每日天气信息的数组
 	private String dressAdvise;//穿衣建议
 	private String washCarAdvise;//洗车建议
+	private String travelAdvise;//旅行建议
 	private String coldAdvise;//感冒建议
 	private String sportsAdvise;//运动建议
 	private String ultravioletRaysAdvise;//紫外线建议
@@ -16,6 +17,7 @@ public class WeatherInfVO {
 	public WeatherInfVO() {
 		dressAdvise = "";
 		washCarAdvise = "";
+		travelAdvise = " ";
 		coldAdvise = "";
 		sportsAdvise = "";
 		ultravioletRaysAdvise = "";
@@ -26,6 +28,7 @@ public class WeatherInfVO {
 	public void printInf() {
 		System.out.println(dressAdvise);
 		System.out.println(washCarAdvise);
+		System.out.println(travelAdvise);
 		System.out.println(coldAdvise);
 		System.out.println(sportsAdvise);
 		System.out.println(ultravioletRaysAdvise);
@@ -60,6 +63,16 @@ public class WeatherInfVO {
 	public void setWashCarAdvise(String washCarAdvise) {
 		this.washCarAdvise = washCarAdvise;
 	}
+	
+	//旅行建议
+	public String getTravelAdvise() {
+		return travelAdvise;
+	}
+	
+	public void setTravelAdvise(String travelAdvise) {
+		this.travelAdvise = travelAdvise;
+	}
+	
 	
 	//预防感冒建议
 	public String getColdAdvise() {
